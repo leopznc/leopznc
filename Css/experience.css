@@ -1,0 +1,13 @@
+.card img {
+	display: flex;
+	margin: auto;
+	width: 35%;
+}
+
+body {
+	background-color: #BACBD9;
+}
+
+h1 {
+	text-align: center;
+}

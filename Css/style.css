@@ -1,0 +1,34 @@
+
+.banner {
+  background-image: linear-gradient(135deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 100%), url(https://images.pexels.com/photos/1058277/pexels-photo-1058277.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 550px;
+  padding: 100px 50px;
+}
+
+.banner-content {
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  margin: auto;
+}
+
+.banner-content p {
+	display: flex;
+	width: 50%;
+}
+
+.card1 {
+	display: flex;
+	justify-content: space-around;
+	margin: auto;
+}
+
+.col-md-4 img {
+	width: 100%;
+}
+
+body {
+	background-color: #3E38F2;
+	font-family: ;
+}
